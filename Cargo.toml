@@ -1,5 +1,11 @@
 [workspace]
 members = [
-    "example01"
+    "example01-hello-world",
+    "example02-primitives",
+    "example03-custom-types",
+    "example04-variable-bindings",
+    "example05-types",
+    "example06-conversion",
+    "example07-expressions",
 ]
 
